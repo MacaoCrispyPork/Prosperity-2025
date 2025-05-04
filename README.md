@@ -1,5 +1,5 @@
 # Round-1-Algorithms
-I found the code used by the global second place team in Prosperity 2 in 2024. Using there code as a template I began to modify the code based on the new historical data given by the stocks.
+I found the code used by the global second place team in Prosperity 2 in 2024 which can be found at https://github.com/ericcccsliu/imc-prosperity-2/tree/main. Using there code as a template I began to modify the code based on the new historical data given by the stocks.
 
 The first round included 3 types of different stocks:
 
